@@ -1,0 +1,95 @@
+{
+    "settings": {
+        "type": "image",
+        "path": ".images\\6dda2be0-75f4-4b07-a52d-db8738b577ef.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcCAIAAAD5mpj+AAAE3UlEQVR4nL2V21MTdxTHz293A8mShIQSQrgkxEtgNGxCICAMkkaoHTvMaJXqVB8605f+XX2wWm91HGvVNg2hFIEAgRBQ8IK5QAgbJWjMJnvtw2oECWMfas/bnvnu53f2nN/5LtLojfBpAvtE3E+LJj6q8PZ/6WhzFR/nQjN+371/gy5RNYZhBP72SJzAqw0GSZIYhmEYRpKkaoMBJ/C3deEEhu353buqRuio59jhVmrE74tEwqSK1Gq1mczmtcsXOZ4bOnteq9WSKvJ1Nmu3U33e/oeR+cCwTxTFj6ER8nze73R1IIT6j59oOWSfnwsplapkcvVN7g1IUmYro9dX1dU3tjra6hsaEUJUWzsAlKQT27l9Hq/T1ZHNZu/dueXu6jZbrA2NZgCgN1IgSQCQSiZttpYTgycBYCO1PjLs6/MO7EV/3ymdTn/Q1iKK0oj/90Q89sv1K777v3EsKwpCKpmUNfTGOssWeIEfGw1cvvhjIh4bDfzJ89x+W7NOp/+wtdtXppVyevuPp2n6xrVL+XweAFQkiQByuVxRU65UKghFNvsaAAicGDx1xmy2BIb/mAvNfIDeMd/FxfmVZ08NRmPnkR45w+Ry27kAUMjnZS4AHKYos9nyfOXZQjgMu2IHWuCF2dBUnmHslNNsaSrm1WqNvdVhb3Wo1ZpiUq+v6nB3FwqF0EyQF/jdaAIAFGVl7s7uA7ZmbWWlfKNZtsDzgqxwOF1Hvf1ynhf4v/y+udkZABBEUe7YmbPneYF/tbX1ZHkpOPmAY9n3aJKssFMOkqzgOHZtPRGLrjxZXkq/SANAramuu9fDFtip2XEAoJyunl4PTW+srSZebWWu/nzxoK3Z0mStMZqqqj6zU46FSHhrO1oOeiN1/cpP8vSKUV1tUCqVfwX808FxAOA47qjHa6prWFtNAMCrrcx0cGI6OAEAXw+dM9TsMNH/xZ6qDTXfff8DTafisejK0yfpF2mQpNR6ksnl2t1dCoUCACini2GYeGxFfkVbqbPuP2AxN9XU1lZUqBlmx11CGr2x5BhvXr+6thoHgHZ3V3dv3+4xait135y7oNFq5XzpMXIsOzYaGBsNAECj2fLV4CmcwIl39jYdnFh6uNhk3ccLQuz5s+I1xzEMAJhc7s7tm/FYdHdDdvQaJ3BnW4dSpYqEZ2PR58V8Nvs6Mj/3aDGyfX02N19OBR+Ul5e3udxFE94TfehQq3XffjqVmhwfkzMqkiRJcrumXKksLs5COByLRZus+w5T1G70+9N0+qrOIz0SoODkWD6fB4TsdsrjHcBx/O6vt5aXHwGA2dI0ePI0huOTD/6emhznBX5maqK+ocHd1ROPRl++fFEanclsPl5+1Nbe2ef9gmEY2VQRQgBgNJlktKGmtqysHAB6ej0HDjaPDPt6PccIQrE4H85kNvesGiRpJOBHCHO6OobOXZAkaTURn58LDRw/YagxAkIgSUaTiWPZ+3dv2ymn2WKVZaHpyZGAXzb0PdAAIEmBYR8AFH9gGrU6n2c02soKsoLjOV2lLp9n1pNrjx8vN9ta+o4NLD1cKMmFD/xaDgzDMITJZoYT+Omhb+vqG2QDUCqVa6uJG9cuCbwgK0VJKsmFkosuimLRJAVeSNM0QkilUqlUKoRQmqaFd6YoiuJe3NJV/1fxD10OVf275EsZAAAAAElFTkSuQmCC",
+        "screenResolutionWidth": 3840,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "settings"
+    },
+    "hex-value": {
+        "type": "windows",
+        "value": "control:\"GroupControl\" and name:\"Radix selection\" > class:\"RadioButton\" and automationid:\"hexButton\" > automationid:\"ContentPresenter\"",
+        "window": "Calculator",
+        "name": "hex-value",
+        "element": {
+            "tag": "TextControl"
+        },
+        "version": 1
+    },
+    "image-plus-button": {
+        "type": "image",
+        "path": ".images\\ea7c3540-dcfb-4a6c-a419-422cac97f59c.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAcCAIAAACGS4oPAAAAbElEQVR4nO3UwQ2AMAiFYeuJFVijrMVorEK6DkcHMLHa1Bdt+O/kO0AotdYN1Q6TEkvsJYyZcZiZ4TAiwmFjrYuVO4+Ymc3sYk8RoaqttQnYOXcXkadT6+7sD1hE4DBVxWHdK5+JjZVYYt/BDgQOFvguejKNAAAAAElFTkSuQmCC",
+        "screenResolutionWidth": 3840,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "image-plus-button"
+    },
+    "binary-value": {
+        "type": "windows",
+        "value": "control:\"GroupControl\" and name:\"Radix selection\" > automationid:\"binaryButton\" and class:\"RadioButton\" > automationid:\"ContentPresenter\"",
+        "window": "Calculator",
+        "name": "binary-value",
+        "element": {
+            "tag": "TextControl"
+        },
+        "version": 1
+    },
+    "portal-find-input": {
+        "type": "browser",
+        "source": "https://robocorp.com/portal",
+        "strategy": "xpath:attributes",
+        "value": "//input[@type='text']",
+        "element": {
+            "tag": "INPUT",
+            "type": "text",
+            "modifier": ""
+        },
+        "alternatives": [
+            {
+                "strategy": "css",
+                "value": ".sc-tagGq",
+                "matches": 1
+            },
+            {
+                "strategy": "xpath:attributes",
+                "value": "//input[@type='text']",
+                "matches": 1
+            },
+            {
+                "strategy": "xpath:relative-id",
+                "value": "//div[@id='__next']/main/header/div/div/div/label/div/input",
+                "matches": 1
+            },
+            {
+                "strategy": "xpath:position",
+                "value": "//input",
+                "matches": 1
+            }
+        ],
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAAAoCAYAAAC/6WUhAAAAAXNSR0IArs4c6QAACTdJREFUeF7tnXtQVPcVx793X7C7vHZZWOQpLzVjjBINj4jJpDNO0naijY3TOmmTUtomnZZMmxAIEhMkoiEwk/SPNolaMx2TTlontjXt1DbttLUooIiANFGeAosKCywLLJt93s7vx+wOyO4Ckd3F6+/OMLNw7/2dc77nfO7vd+5l9nK4ZSsv51M0KvzcbuN3TU4iYX8VJ7r1GPY7U0BoCrxWzjvDI6CTSriP9Qa8VVXFDcyOkXP9UlHER4Rq+U8NBmTPPuCNWvchQtOGxcMUcCvwcjE/Rw21BnVmC/doRQU3TXZQCioqeIVMzOuM41Ddqh0DhVXT3aDAraCQmKM1GC4pE2ndoNQccv5zZARf8SQIA+VuKBMWoydQiCqr4vGHn70o2sXtK+XX2xx8Oz935nErx0BhRXQ3KOANFLEYkIFL4KoPOk+MjeJJb2KsBFB4nsfk5CQcDsc8N0NDQ0F+GhoaYDQasX37dohJdEvcXDbIuUqlcoln++dwEi+Jm/gjlUrnGSE+327c/vH8zhvVGygkkvh47h2u8lWnwWRC1EoGxWw2o6ysDKdOnZrnZnV1NXbs2IHy8nL09fXhyJEjiIryGo7XDLpsxMfHo6SkJOCZtlqtaGtrg1arRVJSErXf1dWFgoIC1NbWIicnZ55PFovltuMOeKAr1KAvUGI0GOTKS51Ou32mqV+pPYqriNVqNYqKiua4SWYTuVwOm80Gu91OP3+ZLdigGAwGFBYWYs+ePdi9e/eiQCEH3W7cX0YrIZ7jCxS5HE6OJ/O3j83XAIESzG43o+nSXigV8diw/iWPZnWDf4PNPomUpJ2wWMbQ138SWu1DGDO04sbNf0Otug/pqU8hJGTmxh7PO6EfaUBn9wdQKhKQlvotfHbllz5tmKZ1GBj4BPqRJqjVG5GS/A2EKZPpeCOjTRgbIzNCPvr6/4SJyU7qS2LCY7DZpnCt72OER6RjlfZht//EZ4t1FNrYfFzrO4nevt9DFXUvYjW51J9p8w2cOft9bMk6AKttAv0Dp2gcaanfRmiIho6z1LjJOVOmfnR1H4dpehCZ6d+FiJNgzHCZ2pRIVsayM1C15bKzUIshGFAu/68Gpunr2JJ1ENPmQVpgMlkkolUbIRKHYED3F8TG5NH9Ekkouns+RGv7m0hJ2kGPGzO0w2o1IE67zSOMo2MtqG/8CTSaHMTHPULhIxBuzXsPEeHp6O07gdbLh+jnGE02TCYdBgZPY8v9B7A6eRdaL1eDgJbzQC0kYgVstgmcayxCbEw2Vid/E929H3kFRalIRER4GqTSCPTr/kw/5z7wNmSyKCwtbjlIHGcbnkNU5DpEq7MwbvwcDoeF+rPtwaOQyeY9IQh0zQbFnqBAGdbXQyGPdwsZpkzC/Zv2ey2YtZmFyEx/mj4uGrz+KS61vY6Hth6DRBKGuvofIjXlSfd+40QH/nvuB0hJetwjKCbTAMxfDNErukgkg8UyijNnC7Em4xmkJD9BQWn/7C3k5x6GSnUveN6B5tZKWoAETsN4G85ffBnbHjyCiPAMd8FuzX0X0epNFFJin8wWqSkzS6+JyS4K/Ow4bgz9B03NZcjPOwJV1HqPoHiLO0yZgubWCjrjZm9+E1JpOOyOaTQ17wWJj4HindE7akYhV+k4bb47Gqkk3L1c8HRlzdlSgxjNTBOsH2lEY9NLFBSrdRz15593FxvZb7eTgimDUpnodXlHispovEqXLHp9A671n6SgksImoPT0fjSn2Gb75HRacK7xp0hJ3kmP//zqr+gs5pphfIEyOw4XPK6/LSVuslyrq/8REhO+ijUZBW4did/EfwaKQEDx1aMspWDIbOCChlzdZ0Dx3QcN68+h4cILkIdqKawKRSI6On+NdWufXRQoZLlH4DBOdGHThr242LIPcbH5SE/7DrUfGFCi581axLYnyIOy/gmiUUEtvZYLFIDHmboCbM56HaviHqHpMZuHUFf/LOK0W+fNKC6IyBV544YycJzIvfTKSH9qkaDM9AcXLpbgnrU/xpXOo8jL/gVdhgUKFIU8gd4UEYtCsDmrki4hXUvE8fF2NqP4APWOWnotFyiugpmeHsTmrAO0x+nseh9dPceRmf7MPFCcThtd29ttU3SpJRaHoufa79DSdpA264tZekkkctoPNF4oxtBwHZISvuYuVpIfV3MfGZGJdWufQ4hMjcmpHtqjLNfSi0B54+a/UH++CJnpBYiNyYV+5Dx0g6chlYYxUBgoc3sUUjCkeb3Y8ipuDp2BWBxCl0P60SZ6q9jTLWjjRCfONxXDMN5Ojyezgu763+nNgMWCQvLQ3fMBLra8Ru9aJSc9Pic1usG/orl1P2TSSFq0Dqdl2UEht8VJzFc7j9K+jPhA4iG3r1mPcof3KP5buvKw2SbBcVKQK/5CGykycuUXiUIWdbyn8foHPsGVzsP0RoJCHreQST/s5+FwWCkcro008+TGRH7eYTq73o2bIHoUISRu2nyTPpTs6DxGn9Wsv+d5cNzS/yftdrXo7v0QnV2/wab7XoFatYE+aLzUWomkxK8HzafbjWk5zmegLIeKyzAGeYJ+peM9rIp7GGsyCyGVhC3DqEsfwuH4At09v0VH1zH65D80NAZrMr6HjLSnIZEolj6gQM5goAgkkSwM/yrAQPGvvmx0gSjAQBFIIlkY/lWAgeJffdnoAlGAgSKQRLIw/KsAA8W/+rLRBaIAA0UgiWRh+FcBBop/9WWjC0QBBopAEsnC8K8CDBT/6stGF4gCDBSBJJKF4V8FGCj+1ZeNLhAFGCgCSSQLw78KLAjKvjKnw2qF13egLDSAf91nozMFAqOAr++vk4XAyR2qdOrHjZj5NjUPGwMlMIliVoKrgC9QVFEY5mrecBwf0XMzXwXCQAlutpj1oCngCxRtHP8+V1bGr+Ft/FX22oeg5YgZXgEKeANFJAJEMm41/XLumoPO0yOjeJTNKCsgY8yFoCjgDZRYLf74YonoCQpKcTGvVEXwAxNG9mq6oGSJGQ26Ap5AUUfjZule0SrinPt1D6WlfGRkGP8P4zi2zPaaNfNBzyFzIAAK3AqKRoO6oVHusdpazjQHFJcvrxTzqWotXnDY+J0TU0ioZK/PDkCamIlgK7B/H+8MC8eAVMKdGB7D21VV3OBsn/4PGm7AbpMRWbUAAAAASUVORK5CYII=",
+        "frame": {
+            "name": "",
+            "title": "Robocorp Portal",
+            "url": "https://robocorp.com/portal",
+            "sourceURL": "https://robocorp.com/portal",
+            "isMain": true,
+            "props": null
+        },
+        "name": "portal-find-input"
+    },
+    "multi-button": {
+        "type": "image",
+        "path": ".images\\cf61fb67-9d72-43ab-a443-df8f03433f6b.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAXCAIAAABxgXNEAAAAwklEQVR4nO3UsQnFIBAGYPN4E9jdECkuQ4gb3CSClXWatGaGWyFL6BiBLPEKIQTzYiIE3itiJQf3If8dNl3XiZvO6y7osf7WQsSjOgBUWIg4DINSKqsDgHOubdsKK4TQ9721dssBgPd+HMdpmvYt7yNLCJEarLXpXoZOrC0npSSiAnRuJU5KaYxh5gIkruwEABARM2ut96OoeNc2oxjjml21lYWdjaLCQkTnXBb2yi3LEkK4as3z/HVqhfib51/9mfUBvFllPzy8E8AAAAAASUVORK5CYII=",
+        "screenResolutionWidth": 3840,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "multi-button"
+    }
+}
